@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Eurizon Capital - Podcast</title>
+    <link>http://www.eurizoncapital.it</link>
+    <description>PODCAST</description>
+    <language>it</language>
+    <copyright>Eurizon Capital SGR S.p.A.</copyright>
+    <pubDate>Wed, 30 Jul 2014 15:31:14 GMT</pubDate>
+    <dc:date>2014-07-30T15:31:14Z</dc:date>
+    <dc:language>it</dc:language>
+    <dc:rights>Eurizon Capital SGR S.p.A.</dc:rights>
+    <itunes:owner>
+      <itunes:email>luigi.digiuseppe@eurizoncapital.com</itunes:email>
+      <itunes:name>Luigi Di Giuseppe</itunes:name>
+    </itunes:owner>
+	<itunes:image href="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/images/itunesCover.jpg" />
+    <itunes:category text="Business">
+      <itunes:category text="Investing" />
+    </itunes:category>
+    <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords />
+    <item>
+      <title>Macro Mercati IIIQ 2014</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001FD2AC</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/MACRO2014IIIQ_640.mp4" length="25462547" type="video/mp4" />
+      <category>Mercati</category>
+      <pubDate>Wed, 09 Jul 2014 12:09:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001FD2AC</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-07-09T12:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>Macro Mercati IIIQ 2014 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001FD2AC&amp;audio</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/MACRO2014IIIQ.mp3" length="4429564" type="audio/x-mpeg" />
+      <category>Mercati</category>
+      <pubDate>Wed, 09 Jul 2014 12:09:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001FD2AC&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-07-09T12:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 06/2014</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001F75CF</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/Monitor%20Mercati%20Giugno2014_640.mp4" length="37765054" type="video/mp4" />
+      <category>Mercati</category>
+      <pubDate>Mon, 30 Jun 2014 12:09:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001F75CF</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-06-30T12:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 06/2014 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001F75CF&amp;audio</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/MONITOR%20MERCATI%20GIUGNO2014.mp3" length="4540323" type="audio/x-mpeg" />
+      <category>Mercati</category>
+      <pubDate>Mon, 30 Jun 2014 12:09:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001F75CF&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-06-30T12:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 05/2014</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001EA192</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/MENSILE%20MAGGIO%20ITALIANO%20OK_640.mp4" length="39907996" type="video/mp4" />
+      <category>Mercati</category>
+      <pubDate>Sat, 31 May 2014 15:35:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001EA192</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-05-31T15:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 05/2014 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001EA192&amp;audio</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/MENSILE%20MAGGIO%20ITALIANO%20OK_2%20versione.mp3" length="4822028" type="audio/x-mpeg" />
+      <category>Mercati</category>
+      <pubDate>Sat, 31 May 2014 15:35:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001EA192&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-05-31T15:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 04/2014</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001DCD82</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/MONITOR%20MERCATI%20APRILE%20OK_640.mp4" length="32758510" type="video/mp4" />
+      <category>Mercati</category>
+      <pubDate>Wed, 30 Apr 2014 15:35:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001DCD82</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-04-30T15:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 04/2014 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001DCD82&amp;audio</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/MONITOR%20MERCATI%20APRILE%20OK.mp3" length="4540323" type="audio/x-mpeg" />
+      <category>Mercati</category>
+      <pubDate>Wed, 30 Apr 2014 15:35:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001DCD82&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-04-30T15:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Macro Mercati IIQ 2014</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001D769E</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/MACRO2014IIQ.mp4" length="21322615" type="video/mp4" />
+      <category>Mercati</category>
+      <pubDate>Wed, 09 Apr 2014 15:35:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001D769E</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-04-09T15:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Macro Mercati IIQ 2014 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001D769E&amp;audio</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/APRILE%202014.mp3" length="5115435" type="audio/x-mpeg" />
+      <category>Mercati</category>
+      <pubDate>Wed, 09 Apr 2014 15:35:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001D769E&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-04-09T15:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 03/2014 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001D4509&amp;audio</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/mensile_aprile_italiano.mp3" length="5413858" type="audio/x-mpeg" />
+      <category>Mercati</category>
+      <pubDate>Tue, 11 Mar 2014 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001D4509&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Eurizon Capital, Mercati, SGR, Intesa Sanpaolo Asset Management, Finanza</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-03-11T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 03/2014</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001D4509</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/mensile%20aprile_italiano.mp4" length="40053293" type="video/mp4" />
+      <category>Mercati</category>
+      <pubDate>Tue, 11 Mar 2014 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001D4509</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Eurizon Capital, Mercati, SGR, Intesa Sanpaolo Asset Management, Finanza</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-03-11T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 02/2014</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001D44FC</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/Eurizon%20Mensile%20Febbraio_640.mp4" length="29492194" type="video/mp4" />
+      <category>Mercati</category>
+      <pubDate>Tue, 11 Feb 2014 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001D44FC</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Finanza, Mercati, SGR, Eurizon Capital, Intesa Sanpaolo Asset Management</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-02-11T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 02/2014 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001D44FC&amp;audio</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/Eurizon%20Mensile%20Febbraio.mp3" length="4573435" type="audio/x-mpeg" />
+      <category>Mercati</category>
+      <pubDate>Tue, 11 Feb 2014 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001D44FC&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Finanza, Mercati, SGR, Eurizon Capital, Intesa Sanpaolo Asset Management</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-02-11T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Macro Mercati IQ 2014</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09C4</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/GENNAIO%202014_640.mp4" length="25480618" type="video/mp4" />
+      <category>Mercati</category>
+      <pubDate>Wed, 01 Jan 2014 16:35:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09C4</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-01-01T16:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Macro Mercati IQ 2014 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09C4&amp;audio</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/MACRO2014IQ.mp3" length="5642575" type="audio/x-mpeg" />
+      <category>Mercati</category>
+      <pubDate>Wed, 01 Jan 2014 16:35:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09C4&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-01-01T16:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 01/2014 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09C3&amp;audio</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/Eurizon%20Mensile%20Gennaio_2%20versione.mp3" length="4819102" type="audio/x-mpeg" />
+      <category>Mercati</category>
+      <pubDate>Wed, 01 Jan 2014 16:34:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09C3&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Finanza, Eurizon Capital, Intesa Sanpaolo Asset Management, Mercati, SGR</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2014-01-01T16:34:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 11/2013 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09BF&amp;audio</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/Monitor%20Mercati%20Ottobre.mp3" length="1990354" type="audio/x-mpeg" />
+      <category>Mercati</category>
+      <pubDate>Thu, 07 Nov 2013 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09BF&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Finanza, Eurizon Capital, Intesa Sanpaolo Asset Management, Mercati, SGR</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-11-07T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 10/2013 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09BC&amp;audio</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/MONITOR%20MERCATI%20SETTEMBRE%20DEFINITIVO.mp3" length="5206968" type="audio/x-mpeg" />
+      <category>Mercati</category>
+      <pubDate>Thu, 03 Oct 2013 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09BC&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Intesa Sanpaolo Asset Management, Finanza, SGR, Eurizon Capital, Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-10-03T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 10/2013</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09BC</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/MONITOR%20MERCATI%20SETTEMBRE%20DEFINITIVO.mp4" length="33462037" type="video/mp4" />
+      <category>Mercati</category>
+      <pubDate>Thu, 03 Oct 2013 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09BC</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Intesa Sanpaolo Asset Management, Finanza, SGR, Eurizon Capital, Mercati</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-10-03T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Monitor Mercati 09/2013</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09B8</link>
+      <description>Interventi a cura del Team Strategia di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/MONITOR%20MERCATI%20LOGO%20BIANCO.mp4" length="31613363" type="video/mp4" />
+      <category>Mercati</category>
+      <pubDate>Wed, 04 Sep 2013 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09B8</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Mercati, Finanza, SGR, Intesa Sanpaolo Asset Management, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Interventi a cura del Team Strategia di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Mercati</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-09-04T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Le Valute (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09B2&amp;audio</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/PUNTATA%208_PILLOLA_640.mp3" length="4405740" type="audio/x-mpeg" />
+      <category>Educational</category>
+      <pubDate>Tue, 16 Apr 2013 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09B2&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Intesa Sanpaolo Asset Management, SGR, Eurizon Capital, Educational, valute</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-04-16T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Le Valute</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09B2</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/PUNTATA%208_PILLOLA_640.mp4" length="18415981" type="video/mp4" />
+      <category>Educational</category>
+      <pubDate>Tue, 16 Apr 2013 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09B2</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Intesa Sanpaolo Asset Management, SGR, Eurizon Capital, Educational, valute</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-04-16T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>La diversificazione</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09AF</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/PUNTATA%206_PILLOLA_sito.mp4" length="14375084" type="video/mp4" />
+      <category>Educational</category>
+      <pubDate>Tue, 26 Mar 2013 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09AF</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>SGR, Eurizon Capital, educational, diversificazione, Intesa Sanpaolo Asset Management</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-03-26T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>La diversificazione (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09AF&amp;audio</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/DIVERSIFICAZIONE_PILLOLA.mp3" length="3487902" type="audio/x-mpeg" />
+      <category>Educational</category>
+      <pubDate>Tue, 26 Mar 2013 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09AF&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>SGR, Eurizon Capital, educational, diversificazione, Intesa Sanpaolo Asset Management</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-03-26T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Fondi Comuni</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09AA</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/FONDICOMUNI_PILLOLA_640.mp4" length="11770248" type="video/mp4" />
+      <category>Educational</category>
+      <pubDate>Wed, 13 Mar 2013 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09AA</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>educational, Intesa Sanpaolo, SGR, Asset Management, fondi, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-03-13T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Fondi Comuni (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09AA&amp;audio</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/FONDICOMUNI_PILLOLA.mp3" length="3170568" type="audio/x-mpeg" />
+      <category>Educational</category>
+      <pubDate>Wed, 13 Mar 2013 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09AA&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>educational, Intesa Sanpaolo, SGR, Asset Management, fondi, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-03-13T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Fondi Flessibili</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09A2</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/flessibili_PILLOLA.mp4" length="12405429" type="video/mp4" />
+      <category>Educational</category>
+      <pubDate>Tue, 26 Feb 2013 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09A2</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Eurizon Capital, educational, SGR, flessibili, Asset Management, Intesa Sanpaolo</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-02-26T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Fondi Flessibili (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09A2&amp;audio</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/flessibili_PILLOLA.mp3" length="3362932" type="audio/x-mpeg" />
+      <category>Educational</category>
+      <pubDate>Tue, 26 Feb 2013 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09A2&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Eurizon Capital, educational, SGR, flessibili, Asset Management, Intesa Sanpaolo</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-02-26T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Mercati azionari (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C28E1&amp;audio</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/azionari_PILLOLA.mp3" length="4864557" type="audio/x-mpeg" />
+      <category>Educational</category>
+      <pubDate>Tue, 12 Feb 2013 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C28E1&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Intesa Sanpaolo, Asset Management, Eurizon Capital, educational, azionii, SGR</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-02-12T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Mercati azionari</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C28E1</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/azionari_PILLOLA.mp4" length="18902832" type="video/mp4" />
+      <category>Educational</category>
+      <pubDate>Tue, 12 Feb 2013 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C28E1</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Intesa Sanpaolo, Asset Management, Eurizon Capital, educational, azionii, SGR</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-02-12T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Mercati obbligazionari</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C28CF</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/obbligazionari_PILLOLA.mp4" length="14903882" type="video/mp4" />
+      <category>Educational</category>
+      <pubDate>Tue, 29 Jan 2013 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C28CF</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>educational, Eurizon Capital, SGR, obbligazioni, Asset Management, Intesa Sanpaolo</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-01-29T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Mercati obbligazionari (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C28CF&amp;audio</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/obbligazioni.mp3" length="3774937" type="audio/x-mpeg" />
+      <category>Educational</category>
+      <pubDate>Tue, 29 Jan 2013 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C28CF&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>educational, Eurizon Capital, SGR, obbligazioni, Asset Management, Intesa Sanpaolo</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2013-01-29T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Investment Solutions by Epsilon - Cedola X 4</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09D8</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_cedolax4_0312_podcast.mp4" length="35803536" type="video/mp4" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 25 Mar 2012 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09D8</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>SGR, Prodotti, Intesa Sanpaolo, Asset Management, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2012-03-25T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Investment Solutions by Epsilon - Cedola X 4 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09D8&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_cedolax4_modifichedel131211_out.mp3" length="6947443" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 25 Mar 2012 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09D8&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>SGR, Prodotti, Intesa Sanpaolo, Asset Management, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2012-03-25T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Eurizon EasyFund</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C093F</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/EURIZON%20EASYFUND%20LTE%20ITAipod.mp4" length="37288219" type="video/mp4" />
+      <category>Educational</category>
+      <pubDate>Wed, 08 Feb 2012 13:58:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C093F</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Eurizon Capital, Educational, Intesa Sanpaolo Asset Management, SGR</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2012-02-08T13:58:00Z</dc:date>
+    </item>
+    <item>
+      <title>Eurizon EasyFund (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C093F&amp;audio</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/EURIZON%20EASYFUND%20LTE%20ITAipod.mp3" length="5120543" type="audio/x-mpeg" />
+      <category>Educational</category>
+      <pubDate>Wed, 08 Feb 2012 13:58:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C093F&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Eurizon Capital, Educational, Intesa Sanpaolo Asset Management, SGR</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2012-02-08T13:58:00Z</dc:date>
+    </item>
+    <item>
+      <title>Nuova aliquota sui redditi finanziari</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C099D</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/gennaio_640x360.mp4" length="27295085" type="video/mp4" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 01 Jan 2012 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C099D</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>SGR, Intesa Sanpaolo Asset Management, Prodotti, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2012-01-01T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Nuova aliquota sui redditi finanziari (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C099D&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/gennaio_320x240.mp3" length="4684616" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 01 Jan 2012 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C099D&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>SGR, Intesa Sanpaolo Asset Management, Prodotti, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2012-01-01T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>G.P. Linea Cedola - 12/2015 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09C5&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_gp_linea_12_2015.mp3" length="6387796" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Thu, 22 Sep 2011 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09C5&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Asset Management, Eurizon Capital, SGR, Intesa Sanpaolo, Prodotti</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-09-22T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>G.P. Linea Cedola - 12/2015</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09C5</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_gp_linea_12_2015_modifichedel220911_out.mp4" length="35883788" type="video/mp4" />
+      <category>Prodotti</category>
+      <pubDate>Thu, 22 Sep 2011 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09C5</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Asset Management, Eurizon Capital, SGR, Intesa Sanpaolo, Prodotti</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-09-22T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Investment Solutions by Epsilon - Soluzione Attiva Protetta</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09DD</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_soluzioneattivaprotetta_modifichedel180711_v1_EURIZON_mp4_320x240_ipod.mp4" length="19851712" type="video/mp4" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 24 Jul 2011 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09DD</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Intesa Sanpaolo, Asset Management, Prodotti, SGR, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-07-24T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Investment Solutions by Epsilon - Soluzione Attiva Protetta (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09DD&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_soluzioneattivaprotetta.mp3" length="4799969" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 24 Jul 2011 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09DD&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Intesa Sanpaolo, Asset Management, Prodotti, SGR, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-07-24T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Nuova Fiscalita' dei Fondi Comuni Italiani</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0998</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_totale.mp4" length="9030507" type="video/mp4" />
+      <category>Prodotti</category>
+      <pubDate>Wed, 29 Jun 2011 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0998</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>SGR, Prodotti, Asset Management, Intesa Sanpaolo, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-06-29T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Nuova Fiscalita' dei Fondi Comuni Italiani (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0998&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_totale.mp3" length="3952766" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Wed, 29 Jun 2011 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0998&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>SGR, Prodotti, Asset Management, Intesa Sanpaolo, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-06-29T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Eurizon Focus profilo Prudente, Moderato e Dinamico</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0949</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_lineaprofili_modifichedel250511_4_3_EURIZON_mp4_320x240_ipod.mp4" length="18161190" type="video/mp4" />
+      <category>Prodotti</category>
+      <pubDate>Tue, 24 May 2011 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0949</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Prodotti, Intesa Sanpaolo Asset Management, Eurizon Capital, SGR</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-05-24T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Eurizon Focus profilo Prudente, Moderato e Dinamico (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0949&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_lineaprofili_modifichedel250511.mp3" length="9004638" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Tue, 24 May 2011 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0949&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Prodotti, Intesa Sanpaolo Asset Management, Eurizon Capital, SGR</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-05-24T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>GP Linee Strategia Valore</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0942</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_strategiavalore_modifichedel050511_4_3_v3_EURIZON_mp4_320x240_ipod.mp4" length="14474159" type="video/mp4" />
+      <category>Prodotti</category>
+      <pubDate>Thu, 05 May 2011 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0942</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Eurizon Capital, Prodotti, SGR, Intesa Sanpaolo Asset Management</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-05-05T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>GP Linee Strategia Valore (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0942&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_strategiavalore.mp3" length="11081895" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Thu, 05 May 2011 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0942&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Eurizon Capital, Prodotti, SGR, Intesa Sanpaolo Asset Management</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-05-05T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Conoscere per Investire: I Piani di Accumulo del Capitale</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0993</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/pacbreve_340x240.mp4" length="41407689" type="video/mp4" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 01 May 2011 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0993</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Intesa Sanpaolo, Prodotti, Asset Management, Eurizon Capital, SGR</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-05-01T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Conoscere per Investire: I Piani di Accumulo del Capitale (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0993&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/pacbreve_340x240.mp3" length="11749800" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 01 May 2011 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0993&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Intesa Sanpaolo, Prodotti, Asset Management, Eurizon Capital, SGR</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-05-01T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Conoscere per Investire: Fondi a Capitale Protetto (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C098C&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizoncastello_340x240.mp3" length="11674592" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Thu, 24 Mar 2011 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C098C&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Eurizon Capital, Intesa Sanpaolo, Prodotti, SGR, Asset Management</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-03-24T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Conoscere per Investire: Fondi Obb. con orizzonte predefinito (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0983&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/conoscere%20per%20investire.mp3" length="10999712" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Tue, 04 Jan 2011 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C0983&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Prodotti, Intesa Sanpaolo, Asset Management, SGR, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2011-01-04T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Eurizon Strategia Flessibile</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09D5</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_focus_strategia_flessibile_modifichedel151210_avimsdv43_EURIZON_MP4_320X240_IPOD.mp4" length="16446510" type="video/mp4" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 19 Dec 2010 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09D5</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>SGR, Eurizon Capital, Asset Management, Prodotti, Intesa Sanpaolo</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2010-12-19T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Eurizon Strategia Flessibile (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09D5&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_focus_strategia_flessibile.mp3" length="14252192" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 19 Dec 2010 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09D5&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>SGR, Eurizon Capital, Asset Management, Prodotti, Intesa Sanpaolo</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2010-12-19T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Eurizon Focus Capitale Protetto - Protezione 12-2016</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09D2</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_focus_capitaleprotetto_modifichedel210910_verslunga_EURIZON_MP4_320X240_IPOD.mp4" length="13738597" type="video/mp4" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 03 Oct 2010 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09D2</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Eurizon Capital, SGR, Prodotti, Intesa Sanpaolo Asset Management</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2010-10-03T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Eurizon Focus Capitale Protetto - Protezione 12-2016 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09D2&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_focus_capitaleprotetto.mp3" length="11812832" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 03 Oct 2010 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09D2&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Eurizon Capital, SGR, Prodotti, Intesa Sanpaolo Asset Management</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2010-10-03T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Eurizon Focus Capitale Protetto - Protezione 09-2016</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09CF</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_focus_capitaleprotetto_modifichedel300610_verslunga_EURIZON_MP4_320X240_IPOD.mp4" length="13950130" type="video/mp4" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 04 Jul 2010 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09CF</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Asset Management, SGR, Intesa Sanpaolo, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2010-07-04T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Eurizon Focus Capitale Protetto - Protezione 09-2016 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09CF&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_focus_capitaleprotetto.mp3" length="11812832" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Sun, 04 Jul 2010 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09CF&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Asset Management, SGR, Intesa Sanpaolo, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2010-07-04T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Eurizon Focus Capitale Protetto - Protezione 06-2016</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09CB</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_focus_capitaleprotetto_modifichedel060410_verscorta_EURIZON_MP4_320X240_IPOD.mp4" length="10907093" type="video/mp4" />
+      <category>Prodotti</category>
+      <pubDate>Mon, 26 Apr 2010 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09CB</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Prodotti, SGR, Intesa Sanpaolo, Asset Management, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2010-04-26T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Eurizon Focus Capitale Protetto - Protezione 06-2016 (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09CB&amp;audio</link>
+      <description>Presentazione dell'offerta di Eurizon Capital.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_focus_capitaleprotetto_060410.mp3" length="9295712" type="audio/x-mpeg" />
+      <category>Prodotti</category>
+      <pubDate>Mon, 26 Apr 2010 22:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09CB&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Prodotti, SGR, Intesa Sanpaolo, Asset Management, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Presentazione dell'offerta di Eurizon Capital.</itunes:subtitle>
+      <itunes:summary>Prodotti</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2010-04-26T22:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Team Obbligazionario High Yield (audio)</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09E0&amp;audio</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_highyeld_sito_v4_EURIZON_MP4_320X240_IPOD.mp3" length="10798112" type="audio/x-mpeg" />
+      <category>Educational</category>
+      <pubDate>Thu, 03 Dec 2009 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09E0&amp;audio</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>SGR, Educational, Intesa Sanpaolo Asset Management, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2009-12-03T23:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Team Obbligazionario High Yield</title>
+      <link>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09E0</link>
+      <description>Per una maggiore consapevolezza negli investimenti.</description>
+      <enclosure url="http://www.eurizoncapital.it/portalWeb40/eurizonweb/eurizon/multimedia/podcast/it/eurizon_highyeld_sito_v4_EURIZON_MP4_320X240_IPOD.mp4" length="12533800" type="video/mp4" />
+      <category>Educational</category>
+      <pubDate>Thu, 03 Dec 2009 23:00:00 GMT</pubDate>
+      <guid>http://www.eurizoncapital.it/scriptWeb40/eurizonweb/eurizon/it/la-societa/news/podcast.jsp?id=CNT-05-00000001C09E0</guid>
+      <itunes:author>Eurizon Capital SGR S.p.A.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>SGR, Educational, Intesa Sanpaolo Asset Management, Eurizon Capital</itunes:keywords>
+      <itunes:subtitle>Per una maggiore consapevolezza negli investimenti.</itunes:subtitle>
+      <itunes:summary>Educational</itunes:summary>
+      <dc:creator>Eurizon Capital SGR S.p.A.</dc:creator>
+      <dc:date>2009-12-03T23:00:00Z</dc:date>
+    </item>
+  </channel>
+</rss>
+
